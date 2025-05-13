@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Boldish';
+    src: url('fonts/Boldish.eot');
+    src: url('fonts/Boldish.eot') format('embedded-opentype'),
+         url('fonts/Boldish.woff2') format('woff2'),
+         url('fonts/Boldish.woff') format('woff'),
+         url('fonts/Boldish.ttf') format('truetype'),
+         url('fonts/Boldish.svg#Boldish') format('svg');
+}

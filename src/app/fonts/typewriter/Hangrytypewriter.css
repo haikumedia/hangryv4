@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hangrytypewriter';
+    src: url('fonts/Hangrytypewriter.eot');
+    src: url('fonts/Hangrytypewriter.eot') format('embedded-opentype'),
+         url('fonts/Hangrytypewriter.woff2') format('woff2'),
+         url('fonts/Hangrytypewriter.woff') format('woff'),
+         url('fonts/Hangrytypewriter.ttf') format('truetype'),
+         url('fonts/Hangrytypewriter.svg#Hangrytypewriter') format('svg');
+}

@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Boldish';
+    src: url('../fonts/boldish/Boldish.eot');
+    src: url('../fonts/boldish/Boldish.eot') format('embedded-opentype'),
+         url('../fonts/boldish/Boldish.woff2') format('woff2'),
+         url('../fonts/boldish/Boldish.woff') format('woff'),
+         url('../fonts/boldish/Boldish.ttf') format('truetype'),
+         url('../fonts/boldish/Boldish.svg#Boldish') format('svg');
+}
+@font-face {
+    font-family: 'Hangrytypewriter';
+    src: url('../fonts/typewriter/Hangrytypewriter.eot');
+    src: url('../fonts/typewriter/Hangrytypewriter.eot') format('embedded-opentype'),
+         url('../fonts/typewriter/Hangrytypewriter.woff2') format('woff2'),
+         url('../fonts/typewriter/Hangrytypewriter.woff') format('woff'),
+         url('../fonts/typewriter/Hangrytypewriter.ttf') format('truetype'),
+         url('../fonts/typewriter/Hangrytypewriter.svg#Hangrytypewriter') format('svg');
+}
