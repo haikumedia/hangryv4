@@ -9,7 +9,7 @@ type NavLink = {
 };
 
 type Props = {
-  links?: NavLink[] | undefined | null;
+  links?: NavLink[] | undefined | null; //test
 };
 
 const FullPageNavigation: React.FC<Props> = ({ links }) => {
